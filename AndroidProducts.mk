@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_payton.mk
+    $(LOCAL_DIR)/cherish_payton.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_payton-user \
-    lineage_payton-userdebug \
-    lineage_payton-eng
+    cherish_payton-user \
+    cherish_payton-userdebug \
+    cherish_payton-eng
